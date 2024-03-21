@@ -126,4 +126,5 @@ const favoritoClicado = (eventoDeClique) => {
         eventoDeClique.target.src = favoriteState.notFavorited
       }
 
+      // funçao corrigida
 }
